@@ -1,0 +1,1 @@
+void OnDamage_Hit_Hook(oSDamageDescriptor& desc);
