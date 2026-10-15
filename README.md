@@ -6,7 +6,7 @@ This plugin implements splash damage in Gothic, meaning you can hit multiple tar
 
 Here you can watch a demonstration of the plugin being a part of a guide for implementing plugins in Union Framework (click the image below):
 
-[![Demonstration](http://img.youtube.com/vi/YN-xTsrEpHg/0.jpg)](https://www.youtube.com/watch?v=YN-xTsrEpHg "Union Framework Tutorial - Learn How to Create a Plugin for Gothic | Beginner's Guide")
+[![Demonstration](http://img.youtube.com/vi/YN-xTsrEpHg/0.jpg)](https://www.youtube.com/watch?v=YN-xTsrEpHg "Union Framework Tutorial - How to Create a Union Plugin for Gothic | Beginner's Guide")
 
 ## Requirements
 
